@@ -10,6 +10,7 @@ This planner is the continued version that was stored in the PersonalProjects re
 3. Better color scheme and appearance.
 4. Enhanced controls for Monthly view.
 5. Scrolling works for the weekly view.
+
 ...
 
 The list goes on for the added features, and this version of the planner looks much more similar to how the final version will appear. That being said, this application is still no where near to being complete, and there are still many more features to add.
