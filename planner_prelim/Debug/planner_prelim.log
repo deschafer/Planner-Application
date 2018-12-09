@@ -1,0 +1,4 @@
+﻿  DialogAddEvent.cpp
+c:\users\damon\source\repos\planner_prelim\planner_prelim\viewbase.h(8): warning C4091: 'static ': ignored on left of 'CDialogAddEvent' when no variable is declared
+  planner_prelim.vcxproj -> C:\Users\Damon\source\repos\planner_prelim\Debug\planner_prelim.exe
+  planner_prelim.vcxproj -> C:\Users\Damon\source\repos\planner_prelim\Debug\planner_prelim.pdb (Partial PDB)
