@@ -1,4 +1,5 @@
 # Planner-Application
+NOTICE -- THIS IS AN OLD UNSUPPORTED VERSION, VISIT https://github.com/deschafer/Plan-IT-V1.0 FOR THE MOST RECENT VERSION
 Repository for my planner application.
 
 This planner is the continued version that was stored in the PersonalProjects repository earlier. This is the next version, and it implements a variety of new features including some of the following.
